@@ -5,7 +5,7 @@
 - 🔭 I'm currently undergraduate in information systems at sabaragamuwa university
 - 🌱 I'm currently acquiring knowledge of everything. 🤣
 - 👯 I'm looking for opportunities to work with other software developers. 
-- ⚡ Interesting fact: I enjoy watching movies. 
+- ⚡ Interesting fact: I love space.
 - 📫 [Nilushikka Thanarasa]() can be reached at niluthanarasa@gmail.com.
 
 
