@@ -1,14 +1,12 @@
-### Hi there, I'm Nilushikka  T - aka [ Nilukshikka Thanarasa ](https://www.nilukshikka.me) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <img src="https://readme-typing-svg.herokuapp.com?font=Cookie&size=34&duration=8000&color=F7D594&center=true&vCenter=true&height=48&lines=University+Student;Frontend+developer;Artificial+Intelligence+Enthusiast;Flutter+Lover">
+### Hi there, I'm Nilushikka  T - aka [ Nilushikka Thanarasa ](https://www.nilushikka.me) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <img src="https://readme-typing-svg.herokuapp.com?font=Cookie&size=34&duration=8000&color=F7D594&center=true&vCenter=true&height=48&lines=University+Student;Frontend+developer;Artificial+Intelligence+Enthusiast;Flutter+Lover">
 
 
-## I'm a Learning AI/ML Engineer, Web Development Mediator and Mobile Development Specialist !
-- 🔭 I'm currently employed by [CyberWarders Software Company]() as a Software Engineer!
+## I'm a Learning AI Engineer, Web Development Mediator and Mobile Development Specialist !
+- 🔭 I'm currently undergraduate in information systems at sabaragamuwa university
 - 🌱 I'm currently acquiring knowledge of everything. 🤣
 - 👯 I'm looking for opportunities to work with other software developers. 
-- 🥅 2021 Targets: Acquire Knowledge of Artificial Intelligence (AI) 
 - ⚡ Interesting fact: I enjoy watching movies. 
-- 💬 Inquire about artificial intelligence, machine learning, Flutter, or Flask. 
-- 📫 [Sanjeev Thanarasa]() can be reached at sanjeev.thanarasa@gmail.com.
+- 📫 [Nilushikka Thanarasa]() can be reached at niluthanarasa@gmail.com.
 
 
 ## My skills
