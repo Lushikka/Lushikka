@@ -1,4 +1,4 @@
-### Hi there, I'm Nilushikka  T - aka [ Nilushikka Thanarasa ](https://www.nilushikka.me) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <img src="https://readme-typing-svg.herokuapp.com?font=Cookie&size=34&duration=8000&color=F7D594&center=true&vCenter=true&height=48&lines=University+Student;Frontend+developer;Artificial+Intelligence+Enthusiast;Flutter+Lover">
+### Hi there, I'm Nilushikka  T - aka [ Nilushikka Thanarasa ](https://www.nilushikka.me) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <img src="https://readme-typing-svg.herokuapp.com?font=Cookie&size=34&duration=8000&color=F7D594&center=true&vCenter=true&height=48&lines=University+Student;Frontend+developer;Artificial+Intelligence+Enthusiast">
 
 
 ## I'm a Learning AI Engineer, Web Development Mediator and Mobile Development Specialist !
@@ -19,6 +19,7 @@
 <br />
 
 ### Profile & Stats:
-<img width="40px" padding-bottom=15px src="https://user-images.githubusercontent.com/59352357/123560294-f8088c80-d7be-11eb-9d14-69ab9fefe501.png" /> <img src="https://profile-counter.glitch.me/sanji185/count.svg" /> <img width="40px" padding-bottom=15px src="https://user-images.githubusercontent.com/59352357/123560461-e4115a80-d7bf-11eb-9b67-a65f2d0d1f06.png" />
+<img width="40px" padding-bottom=15px src="https://user-images.githubusercontent.com/59352357/123560294-f8088c80-d7be-11eb-9d14-69ab9fefe501.png" /> <img src="https://profile-counter.glitch.me/
+Lushikka/count.svg" /> <img width="40px" padding-bottom=15px src="https://user-images.githubusercontent.com/59352357/123560461-e4115a80-d7bf-11eb-9b67-a65f2d0d1f06.png" />
 
 
