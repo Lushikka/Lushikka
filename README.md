@@ -1,0 +1,56 @@
+- 👋 Hi, I’m @Lushikka
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+### Hi there, I'm Nilushikka  T - aka [ Nilukshikka Thanarasa ](https://www.nilukshikka.me) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <img src="https://readme-typing-svg.herokuapp.com?font=Cookie&size=34&duration=8000&color=F7D594&center=true&vCenter=true&height=48&lines=University+Student;Frontend+developer;Artificial+Intelligence+Enthusiast;Flutter+Lover">
+
+
+## I'm a Learning AI/ML Engineer, Web Development Mediator and Mobile Development Specialist !
+- 🔭 I'm currently employed by [CyberWarders Software Company]() as a Software Engineer!
+- 🌱 I'm currently acquiring knowledge of everything. 🤣
+- 👯 I'm looking for opportunities to work with other software developers. 
+- 🥅 2021 Targets: Acquire Knowledge of Artificial Intelligence (AI) 
+- ⚡ Interesting fact: I enjoy watching movies. 
+- 💬 Inquire about artificial intelligence, machine learning, Flutter, or Flask. 
+- 📫 [Sanjeev Thanarasa]() can be reached at sanjeev.thanarasa@gmail.com.
+
+
+## My skills
+
+<p align="center">
+  <img align="center" alt="My Skills Pack" src="https://user-images.githubusercontent.com/59352357/123561040-c940e500-d7c3-11eb-9833-f970bae6535b.png" />
+</p>
+
+<br />
+<br />
+
+### Profile & Stats:
+<img width="40px" padding-bottom=15px src="https://user-images.githubusercontent.com/59352357/123560294-f8088c80-d7be-11eb-9d14-69ab9fefe501.png" /> <img src="https://profile-counter.glitch.me/sanji185/count.svg" /> <img width="40px" padding-bottom=15px src="https://user-images.githubusercontent.com/59352357/123560461-e4115a80-d7bf-11eb-9b67-a65f2d0d1f06.png" />
+
+[![Sanjeev's github stats](https://github-readme-stats.vercel.app/api?username=sanji185&count_private=true&show_icons=true&theme=chartreuse-dark)](
+https://profile-summary-for-github.com/user/sanji185)
+[![Sanjeev's github programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanji185&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact)](
+https://profile-summary-for-github.com/user/sanji185)
+
+
+&nbsp;
+## 🔗Connect with me
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<br />
+
+[website]: https://www.sanjeev.me
+[twitter]: https://twitter.com/sanjeev
+[youtube]: https://www.youtube.com/channel/UCJkOZ4fVu4dD5UzWT1UGGww
+[instagram]: https://instagram.com/
+[linkedin]: https://linkedin.com/in/sanjeev-thanarasa
+[websiteprofile]: https://www.sanjeev.me/#resume
